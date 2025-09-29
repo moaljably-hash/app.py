@@ -2,6 +2,10 @@ import streamlit as st
 import random
 import datetime
 import matplotlib.pyplot as plt
+# Install matplotlib (only needed in some environments)
+import subprocess
+import sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
 
 # --- Title ---
 st.title("🏋️‍♂️ FitSmart AI")
@@ -66,3 +70,4 @@ if submitted:
     ax.set_xticklabels(weekdays, rotation=45)
     ax.grid(True)
     st.pyplot(fig)
+
