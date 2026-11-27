@@ -1,0 +1,222 @@
+{
+  "schema": "a6-reference-plan-v1",
+  "status": "Approved storyboard, prompts not yet generated; attach generated Jo/neighbor identity images to every shot prompt once approved.",
+  "images": [
+    {
+      "id": "jo-identity",
+      "purpose": "character_reference",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "shop-body",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. Shown standing neutral, both hands empty, small calm smile.",
+        "world": "Plain deep-plum studio backdrop with one warm amber side light; no props or location.",
+        "composition": "Identity sheet: front view, three-quarter view and side view of Jo, full body, same scale, clear gaps between views. Identity reference only, not a video opening frame.",
+        "constraints": "Copy only the reference's drawing and light grammar, not its orange hoodie or shop. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "neighbor-identity",
+      "purpose": "character_reference",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "shop-body",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head. Shown standing neutral with hands at his sides.",
+        "world": "Plain deep-plum studio backdrop with one warm amber side light; no props or location.",
+        "composition": "Identity sheet: front, three-quarter and side full-body views of the neighbor, same scale, clear gaps. Identity reference only.",
+        "constraints": "Copy only the reference's drawing and light grammar, not its orange hoodie or shop. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s01-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes.",
+        "composition": "Wide vertical shot from the sidewalk. The neighbor sits at the left end of the bench, swaying, one hand on his chest, starting to tip sideways. Jo walks in from the right holding a paper grocery bag against her hip, head turning toward him. Streetlamp top-center.",
+        "constraints": "Grocery bag is a plain brown paper bag with a baguette and greens poking out. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s02-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "cafe-detail",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes. Background softly out of focus.",
+        "composition": "Vertical close-up of Jo from chest up, three-quarter view. She holds a black smartphone in her right hand in front of her chest, screen facing her, its cool white glow lighting the lower half of her face against the amber streetlight. Wide alarmed eyes, mouth a small closed line.",
+        "constraints": "Phone screen shows only a soft blank glow, no digits. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s03-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes.",
+        "composition": "Vertical medium shot. The neighbor lies on his back on the wet pavement in front of the bench, cap fallen beside him, eyes closed. Jo kneels on one knee at his right side, phone held to her left ear with her left hand, right hand resting on his shoulder, face turned toward him. Dropped grocery bag spilled behind her.",
+        "constraints": "No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s04-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "shop-body",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes.",
+        "composition": "Low-angle vertical shot looking up past Jo, who kneels in the lower third with the phone at her ear and her right arm raised, pointing toward the green street-name sign on its pole and the glowing corner-store window in the upper half of the frame.",
+        "constraints": "No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s05-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "cafe-detail",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes. Background softly blurred.",
+        "composition": "Vertical close-up of Jo's head and shoulders, phone at her left ear, her right open hand gesturing down and out of frame toward the neighbor, whose mustard sleeve and cap are visible at the bottom edge. Focused, serious expression, mouth a small closed line.",
+        "constraints": "No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s06-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes.",
+        "composition": "Vertical over-the-shoulder shot from behind Jo's right shoulder: she leans over the neighbor lying on his back, watching his chest, phone pressed to her ear. The neighbor's face and mustard cardigan are lit by the amber streetlamp.",
+        "constraints": "No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s07-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head.",
+        "world": "Wet dark-plum pavement in front of a bus-shelter bench under amber streetlight, from above.",
+        "composition": "Top-down vertical shot. The neighbor lies on his back, cap beside his head. Jo kneels at his right side, both hands stacked flat on the center of his chest, arms straight. Her black smartphone lies face-up on the pavement by her knee, glowing softly.",
+        "constraints": "Phone screen shows only a blank glow. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s08-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "A relaxed adult stick figure wearing a loose heather-grey hoodie with the hood down and dark-blue sweatpants, bare round black head.",
+        "world": "A cozy apartment living room at night: a worn burgundy couch, a low wooden coffee table with a bowl of popcorn, a glowing TV off-frame casting flickering amber light, a tall window with violet city lights, deep plum walls.",
+        "composition": "Vertical medium-wide shot. The man sits slouched on the couch, holding a black smartphone up to his ear with his left hand, his right hand raised palm-out in an apologetic gesture, head tilted, sheepish expression with the mouth a small closed line.",
+        "constraints": "No bus stop, no Jo, no neighbor in this scene. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s09-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "apartment-style",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood. The neighbor: an older stick figure, slightly shorter and stooped, wearing a mustard-yellow knit cardigan over a cream shirt, brown trousers and a brown flat cap on the round black head. Two paramedics shown as darker silhouettes in navy uniforms with reflective silver stripes on sleeves and trousers, faces turned away from camera.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes. An ambulance is pulling up at the curb on the left, its light bar casting red and blue light across the scene, mixed with the amber streetlight.",
+        "composition": "Vertical wide shot. Jo still kneels beside the neighbor with hands on his chest, turning her head toward the ambulance. The two paramedic silhouettes hurry in from the left carrying a medical bag.",
+        "constraints": "Ambulance has no text or logos; just a white body with a red stripe. No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    },
+    {
+      "id": "s10-first-frame",
+      "purpose": "shot_first_frame",
+      "reference_inputs": [
+        {
+          "source": "package",
+          "asset_id": "cafe-detail",
+          "role": "style"
+        }
+      ],
+      "image_prompt": {
+        "style": "Two-dimensional A6 'Amber Noir' illustration in a vertical 9:16 frame: compact matte-black round heads joined to the torso by a short connected black neck, small cream-white oval eye marks, a compact cream line mouth, simplified black mitten-like hands and slim black stick limbs with readable silhouettes. Angular drawn contours, restrained cel shading, warm amber key light falling into deep plum and violet shadows, a thin warm rim light on figures, layered full-color illustrated environment. Not glossy 3D toys, not photoreal people.",
+        "cast": "Jo: a slim young-adult stick figure wearing a fitted deep-teal zip-up jacket with the zip half closed, charcoal-grey straight pants, black shoes and a small dark-brown cross-body bag on a thin strap over her right shoulder. Bare round black head, no hair, no hood.",
+        "world": "A quiet city bus stop at 11 p.m.: a slim glass bus shelter with a wooden bench, one tall amber streetlamp, wet dark-plum asphalt with soft reflections, a brick building behind with a glowing amber corner-store window, a green street-name sign on a pole at the corner, distant violet apartment silhouettes. In the soft background, red and blue ambulance light glows and the paramedics' silhouettes crouch by the bench.",
+        "composition": "Vertical medium shot of Jo standing on the sidewalk in the foreground, phone lowered in her right hand at her side, left hand on her chest, shoulders dropping as she exhales, looking toward the camera with tired relief. Amber key light on her face, red-blue rim light from behind.",
+        "constraints": "No readable words, letters, numbers, logos, captions or watermark anywhere; street signs and store signs are blank shapes or abstract glyphs. Every figure has exactly two arms, two legs, one head on a connected short neck, feet grounded; no floating limbs, no realistic fingers, no speech bubbles."
+      }
+    }
+  ]
+}
